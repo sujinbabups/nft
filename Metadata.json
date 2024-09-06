@@ -1,7 +1,7 @@
 [{
     "description": "Sea image", 
     "external_url": "https://kba.ai/", 
-    "image": "https://discord.com/channels/1136579914406051931/1232222172374892545", 
+    "image": "https://coral-eldest-panther-842.mypinata.cloud/ipfs/QmRiyePr35zMsPm2RKkEsT1hnAptMo1FZbXC1pcffetaeY", 
     "name": "Sea",
     "attributes": [ 
         {
@@ -15,10 +15,10 @@
      ]
   },
   {
-  "description": "Sea swimming", 
+  "description": "Pinata donkey", 
     "external_url": "https://kba.ai/", 
-    "image": "https://coral-eldest-panther-842.mypinata.cloud/ipfs/QmPhC4BSD5ztQEauYKKiVwXih5P7CupjugVkZdDqBnSS7o", 
-    "name": "Sea",
+    "image": "https://coral-eldest-panther-842.mypinata.cloud/ipfs/QmZjhFDUNdipsQyCWXUXQhoeg2vttqCx5WQ9Xm5sBJHQad", 
+    "name": "Pinata",
     "attributes": [ 
         {
             "trait_type": "Color", 
